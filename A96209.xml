@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact character or, narrative of the late right noble, and magnificent Lord, Oliver Cromvvell, the Lord Protector of England, Scotland, and Ireland; with the dominions thereof Together with a brief recapitulation (or declaration) of his many miraculous victories, virtues, and atchievements, throughout the three nations. With his decease on Friday, the 3d of Septemb. 1658, being above 60 years of age; and the election of his eldest son the Lord Richard, to be Lord Protector of England, Scotland, &amp; Ireland, &amp;c. With the proclaiming of His Highness on Saturday, (the 4th instant) throughout the cities of London, and Westminster. Written by T. l'W. of the Middle-Temple, London, for the present perusal of all honest patriots: and allowed on, by special authority, to be forthwith printed and published.</title>
+            <author>T. L. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96209</idno>
+            <idno type="STC">Wing W135A</idno>
+            <idno type="STC">ESTC R230543</idno>
+            <idno type="EEBO-CITATION">99896044</idno>
+            <idno type="PROQUEST">99896044</idno>
+            <idno type="VID">153723</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96209)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153723)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2375:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact character or, narrative of the late right noble, and magnificent Lord, Oliver Cromvvell, the Lord Protector of England, Scotland, and Ireland; with the dominions thereof Together with a brief recapitulation (or declaration) of his many miraculous victories, virtues, and atchievements, throughout the three nations. With his decease on Friday, the 3d of Septemb. 1658, being above 60 years of age; and the election of his eldest son the Lord Richard, to be Lord Protector of England, Scotland, &amp; Ireland, &amp;c. With the proclaiming of His Highness on Saturday, (the 4th instant) throughout the cities of London, and Westminster. Written by T. l'W. of the Middle-Temple, London, for the present perusal of all honest patriots: and allowed on, by special authority, to be forthwith printed and published.</title>
+                  <author>T. L. W.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for G.E.&amp; C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term>Cromwell, Richard, 1626-1712 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153723:1" rendition="simple:additions"/>
+            <p>An Exact CHARACTER OR, NARRATIVE OF The late right Noble, and magnifi<g ref="char:EOLhyphen"/>cent LORD, Oliver Cromvvell, The Lord Protector of <hi>England, Scotland,</hi> and <hi>Ireland;</hi> With the <hi>Dominions</hi> thereof.</p>
+            <p>Together with a brief Recapitula<g ref="char:EOLhyphen"/>tion (or <hi>Declaration)</hi> of His many Miraculous Victories, Virtues, and Atchievements, throughout the three Nations.</p>
+            <p>With His <hi>Deceaſe</hi> on <hi>Friday,</hi> the 3d of <hi>Septemb.</hi> 1658, being above 60 years of Age; And the Election of His eldeſt Son the Lord <hi>Richard,</hi> to be <hi>Lord Protector</hi> of <hi>England, Scotland,</hi> &amp; <hi>Ireland,</hi> &amp;c. With the Proclaiming of His Highneſs on <hi>Saturday,</hi> (the 4th inſtant) throughout the Cities of <hi>London,</hi> and <hi>Weſtminster.</hi>
+            </p>
+            <p>
+               <hi>Written by</hi> T. l<g ref="char:punc">▪</g>W. <hi>of the Middle-Temple,</hi> London, <hi>for the preſent per<g ref="char:EOLhyphen"/>uſal of all honest Patriots: And allowed on, by ſpecial Authority, to be forthwith Printed and Publiſhed.</hi>
+            </p>
+            <q xml:lang="lat">—Vivet poſt funera Virtus.</q>
+            <p>
+               <hi>London,</hi> Printed for G. E. &amp; C. 1658.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153723:2"/>
+            <pb n="3" facs="tcp:153723:2"/>
+            <head>An Exact CHARACTER OF The late Right Noble, and magni<g ref="char:EOLhyphen"/>ficent LORD, Oliver Cromvvell, The Lord Protector of <hi>England, Scotland,</hi> and <hi>Ireland.</hi>
+            </head>
+            <p>HE was born at <hi>Huntington,</hi> of Honourable Parents, and anciently of the Name and Family of <hi>Williams's,</hi> Gentle<g ref="char:EOLhyphen"/>men of Note, in the County of <hi>Glamorgan</hi> in <hi>South<g ref="char:EOLhyphen"/>wales;</hi> which in the Reign of King <hi>Henry</hi> the Eighth, was changed into the Name of <hi>CROMWELL.</hi>
+            </p>
+            <p>He had his Education in the Univerſity of <hi>Cambridge,</hi> whence he came to <hi>Lincolnes-Inn,</hi> where we find him not to have ſpent over much time in the ſtuddy of the Laws; but for the bettering of his un<g ref="char:EOLhyphen"/>derſtanding, rather employ'd his ſtudies, in reading of men, then to
+<pb n="4" facs="tcp:153723:3"/> dwell on the book, as being naturally more inclined, and affecting the practick part, then the theorick; though in the Liberal Sciences he was not to ſeek of a competent ſhare of learning.</p>
+            <p>Doubtleſſe he was a great proficient, both in the knowledge of men and books, and a great obſerver of the Generall affaires of the World, which appeared not openly, untill opportunity gave him the help, where, and how, to ſhew what he was, and would be, in the active part, and Military employment, wherein even from the firſt beginning, to the laſt of the late unnatural Warrs, on the very firſt un<g ref="char:EOLhyphen"/>ſheathing of the Sword, he ſided with the Parliament, and conſtant<g ref="char:EOLhyphen"/>ly ſtood firme and truſty in the upholding the eſtabliſhed Religion, the Laws of the Land, and Libertyes of his Country, even to the very period of his dayes, and in a moſt devout profeſſion, and defending of them altogether, with the priviledges of Parliament, of the breach of which, none was more tender, and fought more Valiantly for their preſervation, without the leaſt tergiverſation or backſliding from that party to which he adheared.</p>
+            <p>At the very beginning of the Warr, he was no more then a Cap<g ref="char:EOLhyphen"/>taine of a Horſe Troop, which out of a publique ſpirit, and zeal to the cauſe, he firſt raiſed at his own charge, and by degrees (not by leaps) he deſervedly came to higher Commands, having ſoon at<g ref="char:EOLhyphen"/>tained to the reputation of a moſt expert, skilfull, vigilent, and indi<g ref="char:EOLhyphen"/>fatigable Souldier, even to the wonder &amp; admiration of his aſſiſtants, and ſhortly after came to be (by the Parliaments prudent choice) Commander in chief, his then miraculous atchievements conſider<g ref="char:EOLhyphen"/>ed, both in abſolute finiſhing, and putting an end to the fury of the Warr in England, and ſtopping of that wide Orifice of blood, which ran throughout moſt parts of the Kingdom, during the full tearme of ſix yeares, his then expeditious reducing of <hi>Ireland,</hi> and <hi>South-Wales,</hi> with that which is of more remarke, the overthrow of <hi>Duke Ham<g ref="char:EOLhyphen"/>bletons</hi> Invading Army, the Kirk Armys at <hi>Dunbar,</hi> together with the reducing of all the Kingdom of <hi>Scotland,</hi> his there defeating of <hi>Charles Stuart's</hi> Army at <hi>Worceſter;</hi> and all this done (as we ſay) in a trice; ſo that to attribute theſe wonderful Victoryes to blind For<g ref="char:EOLhyphen"/>tune, would be a derogation to Gods great providence, which we may ſafely believe guided him in all theſe enterprizes.</p>
+            <pb n="5" facs="tcp:153723:3"/>
+            <p>Neither muſt we omit, how then he ſetled the Natives of the 3 Kingdomes, with thoſe of the Principality, in a firm Peace, con<g ref="char:EOLhyphen"/>trary to theexpectation of all men, ſo that, without flattery, it may be ſaid of him, as it is of <hi>Caeſar,</hi> that <hi>Venit, Vidit, &amp; Vicit,</hi> that is, <hi>He came, he ſaw, and he conquered.</hi>
+            </p>
+            <p>His next great work was, the Reformation of the Churches affairs, too much diſeaſed and disjoynted by the admiſſion thereinto of too many idoll, ignorant, and debauch't Miniſters; but that which is more remarkable, is, that of eſtabliſhing the Peace of the three Kingdomes, under ſuch an Ariſtocraticall Government, that every man that will, may ſecurely ſleep under his own Vine, and enjoy their eſtates, without fear of farther blood-ſhed, rapine and plunder.</p>
+            <p>He married into the ancient and noble Family of the <hi>Bourchers,</hi> ſometimes Earls of <hi>Eſſex,</hi> by whom he had two Sons, the Lord <hi>Ri<g ref="char:EOLhyphen"/>chard,</hi> lately made Protector, in his Father's room, and the Lord <hi>Henry,</hi> now Lord Deputy of <hi>Ireland,</hi> Perſons, of great honor, hopes, and abilityes, and four Daughters, all Ladies of eminent vertues: The Lady <hi>Bridget,</hi> his eldeſt, firſt married to the Lord <hi>Ireton,</hi> lately, Lord Deputy of <hi>Ireland,</hi> and ſince his Deceaſe, to the right noble Lord <hi>Charles Fleetwood:</hi> the Lady <hi>Elizabeth,</hi> his 2d Daughter, married to the Lord <hi>Claypole,</hi> lately deceaſed: the Lady <hi>Mary,</hi> his third Daughter, married to the right honourable the Lord Viſcount <hi>Fau<g ref="char:EOLhyphen"/>conberg;</hi> the Lady <hi>Francis</hi> his fourth, and youngeſt, Daughter, mar<g ref="char:EOLhyphen"/>ried to the right honourable <hi>Robert Rich,</hi> Grand-child to the right honourable the Earl of <hi>Warwick,</hi> lately Lord Admirall of <hi>England,</hi> during moſt of the time of the War between the late King and Par<g ref="char:EOLhyphen"/>liament: And all theſe his Children, married and honourably diſ<g ref="char:EOLhyphen"/>poſed of in his life-time; ſo that we may truly ſay, that he lived, to be an Eye-witneſs of God's great Mercy &amp; Bleſſings, powred on him<g ref="char:EOLhyphen"/>ſelf and whole Family, even to admiration, if we look upon the di<g ref="char:EOLhyphen"/>ſaſters of other families, wherein we aſſidually ſee the Father, and the Children to be disjoyned by death, and left to the wide World, to ſeek their livelihoods, out of the cold Charity of Kindred, and ſuch as take no care either for their Education, or Maintenance.</p>
+            <pb n="6" facs="tcp:153723:4"/>
+            <p>Now, as to his Perſon, he was tall, well ſet, and well proportio<g ref="char:EOLhyphen"/>ned, throughout the whole Lineaments and Dimenſions of his Bo<g ref="char:EOLhyphen"/>dy, and a moſt Active, Vigilan, Wary, and Circumſpect Comman<g ref="char:EOLhyphen"/>der, in all his Martiall Employments, even to the wonder of the Times; and of an high extraordinary Head-peece, yet he dayned not to be counſelled, even in moſt of his leſſer Affairs.</p>
+            <p>As to his Intel'ectuals, Gifts, and Abilities, of his Mind, they were without compare, ſuited to that Great Work; whereunto (as we may ſafely beleive) Almighty God in his great providence, had pre-ordained Him to accompliſh, in vindicating the Religion, Laws, and Liberties of his Country; wherein he acted the part both of an expert Souldier, a merciful General, a moſt zealous defender of Gods Truth, and freed the three Nations from blood, rapine, and Tyranny, ſettled and eſtabliſhed them all in peace and quietneſſe; which if it be rightly taken into conſideration, manifeſtly ſhews, That He alone was by God appointed to this moſt Important work, and <hi>Herculian</hi> Labour; which we ſee him to have nobly performed, without vain<g ref="char:EOLhyphen"/>glory, oſtentation, or boaſting; but in a fair, quier, deliberate; <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd modeſt temper of mind, &amp; toyl of body: for we find Him not ſubject to paſſion, lordlineſſe, ſtatelineſſe, or preſumption, (the common and inſeparable flawes and faults of greatneſſe) but of an even, grave, ſtayed, patient and affable comportment towards all men, and of all ſorts, whether high or low, eſpecially towards the diſtreſſed; yet of a very high, vaſt, and incomparable Judgment, without the leaſt tincture of pride, rage or fury.</p>
+            <p>He was Uxorious, and exceeding loving towards Her, that had the Honour of His bed: and a moſt Tender and Indulgent Father, towards all thoſe which God had ſent Him, by the only dear Conſort both of his youth, and old age: a happineſſe and bleſſing ſeldome ſeen to accompany old and young to their graves: and to ſee their Iſſues honourably diſpoſed of in his life-time; which is a vi<g ref="char:EOLhyphen"/>ſible ſigne and argument, that God had beſtowed this great bleſſing upon Him, and His.</p>
+            <p>He lived to be an eye-witneſſe of the perferment of all his off<g ref="char:EOLhyphen"/>ſpring to honour and greatneſſe, and to leave behind him ſuch a pat<g ref="char:EOLhyphen"/>tern of piety, zeal to the publique intereſt, and ſuch an abundant example of Charity, towards all men in diſtreſſe, as cannot be par<g ref="char:EOLhyphen"/>rallel'd
+<pb n="7" facs="tcp:153723:4"/> in any we have known; And although we have no Mo<g ref="char:EOLhyphen"/>numents of Him left us in Stones, and Structures, yet have we in<g ref="char:EOLhyphen"/>finite Preſidents of his bounty and liberality to poor maimed Soul<g ref="char:EOLhyphen"/>diers, &amp; diſtreſſed people of either Sex, which are the Images of the Creator; on whom it is credibly reported, that out of his innared compaſſion, he beſtowed not ſo little as 40000l. <hi>per annum,</hi> out of his own purſe, and the allowance conferd on Him by the State for the honour of the Nations, and His Court: ſo that we find Him not any wayes noted of covetouſneſſe, yet frugal and ſparing all His expences; ſo far as ſuted with Honour and His place.</p>
+            <p>He came to be <hi>PROTECTOR</hi> in a very ſeaſonable time, for the honour and ſupport of his Country, and at a time when as there was no Steers-man at the Helm; and 'tis a queſtion, not eaſily to be reſolved, whether then, there could be any One found fit to undergo a place of ſuch Unweildineſſe and Truſt, other then Him<g ref="char:EOLhyphen"/>ſelf, which he faithfully underwent, and diſcharged, with as much Honour, Integrity, and Applauſe, (even of his Enemies) as poſſibly could be expected.</p>
+            <p>He undertook this Unweildy and Burthenſom Place, on the period of the Wars in all the three Kingdomes, <hi>Decemb.</hi> 16. 1653. and ended the troubleſome courſe of his life (at the Age of above 60 years) on the third of <hi>September;</hi> on which Day, he obtained thoſe two Ad<g ref="char:EOLhyphen"/>mirable Victories, at <hi>Dunbar</hi> and <hi>Worceſter;</hi> which ſame Day, being formerly a day of Trouble to him; God was now graciouſly pleaſed to make it a Day of Reſt, by ta<g ref="char:EOLhyphen"/>king him to Himſelf. He was magnified and beloved of all honeſt hearted men; and we believe as little hated of any, as we have read of, living in the ſplendour of Command and Greatneſſe; having reduced the Three Kingdoms in a ſettled Peace, and Quietneſſe, to the won<g ref="char:EOLhyphen"/>der of the World, and contrary to the general expecta<g ref="char:EOLhyphen"/>tion of the beſt Judgments.</p>
+            <pb n="8" facs="tcp:153723:5" rendition="simple:additions"/>
+            <p>The Lord <hi>RICHARD</hi> his eldeſt Son being the next day proclaimed <hi>LORD PROTECTOR</hi> of <hi>England, Scotland,</hi> and <hi>Ireland;</hi> A Perſon, on whom the Hopes of the Nations grow ſtrong, That he (as he ſucceeds ſo Illuſtrious a Father) will not degenerate from the Virtues of ſuch an unparallell'd Parent.</p>
+            <p>To ſpeak more in his praiſe, would be a leſſening to his Worth and Merits, and happily a means to draw envy on the Author, who hath written this little (much too ſcanty) for his great and miraculous Atchievements, his famous Victories, and everlaſting praiſe; which in times to come will (doubtleſſe) be augmented to a Vo<g ref="char:EOLhyphen"/>lume; which happily the Nation ſhall ſhortly ſee.</p>
+            <p>God in his great mercy ſo bleſſe and proſper his Hope<g ref="char:EOLhyphen"/>full Succeſſour, that he may be a Religions Imitator of Him, who is at Reſt; and that he may be to theſe Nations ſuch a Patriot, as preceded him, in the Government. Which is cordially wiſh'd by him, who ſubſcribes</p>
+            <closer>
+               <signed>
+                  <hi>T. L. W.</hi> of the Middle-Temple, <hi>London.</hi>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
